@@ -31,3 +31,4 @@ QadriTech Solutions showcases a clean, professional, and fully responsive softwa
 
 ## Author
 
+- [@abubakrsaddique](https://github.com/abubakrsaddique)
