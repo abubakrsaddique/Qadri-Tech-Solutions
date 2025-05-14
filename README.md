@@ -27,4 +27,7 @@ Navigation Bar : Smooth scroll navigation to different sections
 SEO Optimized : Designed with SEO best practices in mind
 
 ## Conclusion:
-QadriTech Solutions showcases a clean, professional, and fully responsive software house website developed using modern web technologies like Next.js, TypeScript, and Tailwind CSS. It effectively represents the services of a tech company with performance, scalability, and user experience in mind. This project serves as both a company portfolio and a demonstration of full-stack frontend development best practices.
+QadriTech Solutions showcases a clean, professional, and fully responsive software house website developed using modern web technologies like Next.js, TypeScript, and Tailwind CSS. It effectively represents the services of a tech company with performance, scalability, and user experience in mind. This project serves as both a company portfolio and a demonstration of full-stack frontend development best practices
+
+## Author
+
